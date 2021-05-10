@@ -19,7 +19,7 @@
 ```javascript
 const jaykishan = {
     pronouns: "He" | "Him",
-    code: ["Java", "Javascript", "Python", "Java", "html"],
+    code: ["Java", "Javascript", "Python", "SQL", "PHP", "html"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
